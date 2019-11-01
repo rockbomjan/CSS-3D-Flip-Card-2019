@@ -1,0 +1,6 @@
+https://www.bootstrapcdn.com/fontawesome/
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+https://fontawesome.com/v4.7.0/icon/facebook
+<i class="fa fa-facebook" aria-hidden="true"></i>
+https://fonts.google.com/
+https://fonts.google.com/?query=jos&selection.family=Josefin+Sans:400,700
